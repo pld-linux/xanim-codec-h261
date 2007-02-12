@@ -1,5 +1,5 @@
 Summary:	H.261 codec for XAnim
-Summary(pl):	Kodek H.261 dla XAnima
+Summary(pl.UTF-8):   Kodek H.261 dla XAnima
 Name:		xanim-codec-h261
 Version:	1.0
 Release:	1
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 H.261 codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka H.261 dla XAnima.
 
 %prep

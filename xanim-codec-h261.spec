@@ -1,5 +1,5 @@
 Summary:	H.261 codec for XAnim
-Summary(pl.UTF-8):   Kodek H.261 dla XAnima
+Summary(pl.UTF-8):	Kodek H.261 dla XAnima
 Name:		xanim-codec-h261
 Version:	1.0
 Release:	1
